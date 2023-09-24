@@ -25,4 +25,4 @@ http://localhost:8080/swagger-ui.html
 ```
 
 ### Autor
-- [Rafael Alves](https://www.linkedin.com/in/jarbas-gouveia/)
+- [Jarbas Gouveia](https://www.linkedin.com/in/jarbas-gouveia/)
